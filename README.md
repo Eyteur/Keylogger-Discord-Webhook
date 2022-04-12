@@ -22,7 +22,7 @@
 
 ## Futur upgrades :
 
-I'm working on an exe which make automaticly the keylogger
+I'm working on an exe which makes automaticly the keylogger
 
 ------
 
